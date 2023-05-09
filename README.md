@@ -64,4 +64,5 @@ VCS - Version Control System
  - git checkout teste: comando pra mudar a banch de master para teste
 
  - git log --oneline --decorate: comando para mostrar em em que branch estamos
- -git merge: comando para juntar todas as branch disponiveis na master
+ - git merge: comando para juntar todas as branch disponiveis na master
+ - git push --set-upstream origin adatech: comando para enviar pro github a banch e as modificações feitas
