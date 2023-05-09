@@ -56,4 +56,5 @@ VCS - Version Control System
   git restore . : restaurar todos os arquivos
 
   # Repositorios remotos
-  *git pull
+   *git pull
+   repositorios remotos que qundo uma pessoa que vc compartilhou o código e a modificou vc trás para a sua maquina aquele arquivo alterado
