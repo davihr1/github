@@ -58,3 +58,10 @@ VCS - Version Control System
   # Repositorios remotos
    *git pull
    repositorios remotos que qundo uma pessoa que vc compartilhou o código e a modificou vc trás para a sua maquina aquele arquivo alterado
+
+# Git branche
+ - git branch master: comando para criar um branch com o nome master
+ - git checkout teste: comando pra mudar a banch de master para teste
+
+ - git log --oneline --decorate: comando para mostrar em em que branch estamos
+ -git merge: comando para juntar todas as branch disponiveis na master

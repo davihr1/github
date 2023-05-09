@@ -1,0 +1,1 @@
+- aprendendo sobre git na adatec & ser + tech (devOps)
