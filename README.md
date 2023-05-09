@@ -54,3 +54,6 @@ VCS - Version Control System
   quando vc quer desfazer alguma alteração que deu errado e/ou não só em um unico arquivo
   -git restore 'nome do arquivo': restaurar um unico arquivo
   git restore . : restaurar todos os arquivos
+
+  # Repositorios remotos
+  *git pull
